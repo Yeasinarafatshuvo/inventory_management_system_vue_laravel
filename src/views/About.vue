@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-    <button @click="click_notification">click</button>
+    <button @click="click_notification" class="btn btn-dark">click</button>
   </div>
 </template>
 
